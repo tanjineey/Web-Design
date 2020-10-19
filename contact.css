@@ -1,0 +1,51 @@
+body{
+	background-image:url(AnimalCrossing.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin:0;
+
+}
+.sidenav{
+	height:100%;
+	width:150px;
+	position:fixed;
+	background-color: white;
+	overflow-x:hidden;
+	padding-top: 30px;
+}
+.sidenav a{
+	padding:16px 8px 8px 18px;
+	color:white;
+	text-decoration: none;
+	font-size:27px;
+	color:black;
+	display:block;
+	font-family: lato;
+}
+
+.sidenav a:hover{
+	background-color:gray;
+}
+h1{
+	font-size:50px;
+	padding-top:100px;
+	padding-left:40%;
+	font-family:lato;
+	color: white;
+}
+h2{
+	font-size:37px;
+	padding-top:10px;
+	padding-left:30%;
+	font-family:lato;
+}
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	color:black;
+	padding-left: 20px;
+	text-align: left;
+}
+

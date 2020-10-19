@@ -1,0 +1,72 @@
+body{
+	background-image:url('AnimalCrossing.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin:0;
+}
+.navbar{
+	font-family:Lato;
+	width:100%;
+	background-color:lightblue;
+	overflow:auto;
+}
+.navbar a{
+
+	font-family: lato;
+	float:left;
+	padding:12px;
+	color:white;
+	text-decoration: none;
+	font-size:27px;
+	width:31%;
+	text-align:center;
+}
+.navbar a:hover{
+	background-color:gray;
+}
+h1 {
+	color:black;
+	background-color: gray;
+	margin-left:30%;
+	margin-right:30%;
+	background-size: 100px 100px;
+	overflow:auto;
+	font-size:50px;
+	text-align: center;
+	font-family:lato;
+}
+
+h2 {
+	color:black;
+	background-color: white;
+	text-align: center;
+	margin-left:40%;
+	margin-right:40%;
+	overflow:auto;
+	font-size:30px;
+	font-family:lato;
+
+}
+h3 {
+	color:black;
+	overflow:auto;
+	background-color: white;
+	text-align: center;
+	margin-left:40%;
+	margin-right:40%;
+	font-size:20px;
+	font-family:lato;
+}
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color: #8fc258;
+	color:white;
+	text-align: center;
+}
+
+
+
+
